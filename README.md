@@ -121,6 +121,7 @@ main_sunglass-checkpoint.ipynb
 
 ---
 ## Input Image:
+<img width="474" height="556" alt="image" src="https://github.com/user-attachments/assets/b5626b54-4b16-4b10-9316-a32a8e4492f5" />
 
 ## Output Image:
 
