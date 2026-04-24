@@ -120,8 +120,9 @@ main_sunglass-checkpoint.ipynb
 * Pixel Manipulation
 
 ---
+## Input Image:
 
-## Output
+## Output Image:
 
 The final output shows sunglasses accurately placed over the eye region of the face image.
 
