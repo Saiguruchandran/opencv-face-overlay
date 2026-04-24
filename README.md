@@ -139,6 +139,7 @@ The final output shows sunglasses accurately placed over the eye region of the f
 ## Author
 
 **Sai Guru Chandran G**
+
 Artificial Intelligence and Machine Learning Student
 
 ---
