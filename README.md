@@ -68,7 +68,7 @@ The project loads a face image and a sunglasses PNG image with an alpha channel 
 
 ```text
 ├── main_sunglass-checkpoint.ipynb
-├── rishon.png
+├── myphoto.jpg
 ├── sunglass.png
 └── README.md
 ```
