@@ -108,24 +108,13 @@ main_sunglass-checkpoint.ipynb
 ```
 
 ---
-
-## Concepts Used
-
-* Image Reading using OpenCV
-* Alpha Channel Processing
-* Image Resizing
-* Region of Interest (ROI)
-* Image Masking
-* Image Blending
-* Pixel Manipulation
-
----
 ## Input Image:
 <img width="474" height="556" alt="image" src="https://github.com/user-attachments/assets/b5626b54-4b16-4b10-9316-a32a8e4492f5" />
 
 ## Output Image:
 
 The final output shows sunglasses accurately placed over the eye region of the face image.
+<img width="510" height="704" alt="image" src="https://github.com/user-attachments/assets/9ee60ea9-fadb-4b8c-9c6b-4d0c101c5040" />
 
 ---
 
